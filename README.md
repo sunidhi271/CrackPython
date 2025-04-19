@@ -1,6 +1,6 @@
 # 🐍 CrackPython
 
-Welcome to **CrackPython** — a curated, concept-wise collection of Python coding questions and answers, designed specifically for interview preparation and hands-on practice.
+Welcome to **CrackPython** — a curated, concept-wise collection of Python coding questions and answers, designed specifically for, brushing up on python, interview preparation and hands-on practice.
 
 ---
 

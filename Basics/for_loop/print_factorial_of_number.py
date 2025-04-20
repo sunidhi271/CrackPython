@@ -11,3 +11,15 @@ for i in range(num,0,-1):
     factorial *= i
     
 print(f"Factorial of {num} = {factorial}")
+
+
+# Another way: 
+def calculate_factorial(n):
+    factorial=1
+    for i in range(n,0,-1):
+       factorial *= i
+    
+    return factorial
+
+num=6
+print(f"Factorial of {n} is: {calculate_factorial(n)}")

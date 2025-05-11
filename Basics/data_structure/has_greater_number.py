@@ -6,9 +6,11 @@
 # print(max.marks))
 # print(min.marks))
 # print(marks.index(85))
+# To see marks of a specfic index - print(marks[0])
 # To add a new value to the list - append.marks(97)
 # To append value to a specific index - insert.marks(0,75)
-# To see marks of a specfic index - print(marks[0])
+# To sort the List from small to large - marks.sort()
+# To reverse the List - marks.reverse()
 
 
 #Q: your task is to create a Python function named has_greater_element that checks whether there is any number greater than a given value in a list of numbers.

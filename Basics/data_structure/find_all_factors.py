@@ -7,6 +7,7 @@ def find_factors(n):
     while i <= n:
         if n % i == 0:
             list += [i] 
+            # list.append(i)  #This is another way to add values to the list
         i += 1 
     return(list)
     
